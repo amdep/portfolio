@@ -1,0 +1,122 @@
+{
+  "landing": {
+    "firstName": "Dayron ",
+    "lastName": "De La Rosa",
+    "phoneNumber": "+57 (318)5278110",
+    "bio": "Experienced Web and Mobile Apps Developer with a demonstrated history of working in the computer software industry. Skilled in SAP Fiori, Angular, ReactJS, JavaScript, Java, Python, NodeJS, PostgreSQL, MongoDB, HANA, Full-Stack Development, Scrum. Strong information technology professional with a Engineer's degree focused in Systems Engineering.",
+    "email": " dlr.dayron@gmail.com",
+    "linkedin": "https://linkedin.com/in/dayron-de-la-rosa-12579a170",
+    "github": "https://github.com/DayronDLR"
+  },
+  "experience": [
+    {
+      "position": "Digital Cloud Platform Consultant",
+      "organization": "EPI-USE Colombia",
+      "aboutWork": "Responsible for building web and hybrid applications to provide solutions to customer needs under technologies such as SAP Cloud Platform, Javascript FullStack or microservices, among others.",
+      "fromDate": "January 2019",
+      "toDate": "Present"
+    },
+    {
+      "position": "Full Stack Engineer",
+      "organization": "Grama group",
+      "aboutWork": "Developer whit Java in the Backend and XML in the Frontend, in addition, a PostgreSQL database.",
+      "fromDate": "June 2018",
+      "toDate": "December 2018"
+    },
+    {
+      "position": "Back End Developer",
+      "organization": "FugiTV",
+      "aboutWork": "Worked on FugiTV building the backend system for the web application.",
+      "fromDate": "June 2017",
+      "toDate": "October 2017"
+    }
+  ],
+  "education": [
+    {
+      "university": "Universidad Nacional de Colombia",
+      "degree": "Master of Science - MSc, Systems engineering and computing",
+      "fromDate": "January 2020",
+      "toDate": "Present"
+    },
+    {
+      "university": "Universidad Mariana",
+      "degree": "Engineer's degree - Ing, Systems Engineering",
+      "fromDate": "January 2014",
+      "toDate": "December 2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "FullStack Development"
+    },
+    {
+      "name": "SAP Cloud Platform"
+    },
+    {
+      "name": "SAP Fiori"
+    },
+    {
+      "name": "React.js"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Express.js"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "S4HANA"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "XML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "interests": {
+    "paragraphOne": "In addition to being a systems engineer, I enjoy riding the roads on my motorcycle. I am passionate about contact sports such as American football or Olympic wrestling, however, I also like to read about philosophy and poetry.",
+    "paragraphTwo": "From my professional side, I aspire to continue training in computer science and I hope someday to have the opportunity to obtain a doctorate from MIT."
+  },
+  "awards": [
+    {
+      "awardDetail": "SAP Certified Development Associate - SAP Fiori Application Developer (SAP) - Agost 2019 - ID. ILP7009878333"
+    },
+    {
+      "awardDetail": "MENDIX RAPID DEVELOPER (Mendix) - April 2020 - ID. 18923"
+    }
+  ]
+}
