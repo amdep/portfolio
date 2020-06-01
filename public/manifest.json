@@ -1,25 +1,25 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "DLR",
+  "name": "Dayron De La Rosa",
+  "description": "Portfolio from Ing. Dayron De La Rosa",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#D00000",
+  "background_color": "#D00000",
+  "shortcuts": [
+    {
+      "name": "Engineer of systems",
+      "short_name": "Ing",
+      "description": "Portfolio from Ing. Dayron De La Rosa",
+      "url": "."
+      // "icons": [{ "src": "", "sizes": "192x192" }]
+    }
+  ]
 }

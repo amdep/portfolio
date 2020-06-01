@@ -12,7 +12,6 @@ class Sidebar extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
         <a className="navbar-brand js-scroll-trigger" href="#">
-          <span className="d-block d-lg-none">{this.sidebarData.firstName} {this.sidebarData.lastName}</span>
           <span className="d-none d-lg-block">
             <img className="img-fluid img-profile rounded mx-auto mb-2" src={image} alt=""></img>
           </span>
